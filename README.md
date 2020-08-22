@@ -10,7 +10,7 @@ I'm Hassan. I like to build cool stuff with JavaScript. I'm a Full Stack Develop
 
 <details>
   <summary><b>🥅: 2020 goals</b></summary>
-  I want to learn how to make cross platform mobile apps and work with full stack serverless web apps.
+  I want to learn how to make cross platform mobile apps and build full stack serverless web apps.
 </details>
 
 <details>
