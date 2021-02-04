@@ -19,3 +19,5 @@ I'm Hassan. I like to build cool stuff with JavaScript. I'm a Full Stack Develop
   <img align="left" alt="Hassan Masoud's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HassanMasoud&show_icons=true&hide_border=true" />
 
 </details>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanMasoud&" alt="HassanMasoud" /></p>
