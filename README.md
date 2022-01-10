@@ -9,7 +9,7 @@ I'm Hassan. I like to build cool stuff with JavaScript. I'm a Full Stack Develop
 - ⚡ Fun fact: I like to DJ in my free time
 
 <details>
-  <summary><b>🥅: 2021 goals</b></summary>
+  <summary><b>🥅: 2022 goals</b></summary>
   I want to learn how to make cross platform mobile apps and build full stack serverless web apps.
 </details>
 
