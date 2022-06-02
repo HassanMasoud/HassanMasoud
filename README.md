@@ -1,6 +1,4 @@
-<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100px">
-
-I'm Hassan. I like to build cool stuff with JavaScript. I'm a Full Stack Developer at <a href="https://brand2d.com" target="_blank">Brand2D</a>. <br><br>:coffee: Wanna chat? :point_right: Feel free to check out my <a href="https://hassanmuhashamy.com" target="_blank">website</a> and connect with me on <a href="https://www.linkedin.com/in/hassanmuhashamy/" target="_blank">LinkedIn</a>
+Hey there! 👋🏼 I'm Hassan. I like to build cool stuff with JavaScript. I'm a Full Stack Developer at <a href="https://brand2d.com" target="_blank">Brand2D</a>. <br><br>:coffee: Wanna chat? :point_right: Feel free to check out my <a href="https://hassanmuhashamy.com" target="_blank">website</a> and connect with me on <a href="https://www.linkedin.com/in/hassanmuhashamy/" target="_blank">LinkedIn</a>
 
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning TypeScript
@@ -21,3 +19,4 @@ I'm Hassan. I like to build cool stuff with JavaScript. I'm a Full Stack Develop
 </details>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanMasoud&" alt="HassanMasoud" /></p>
+ 
