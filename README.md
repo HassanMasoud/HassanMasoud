@@ -18,4 +18,4 @@ Hey there! 👋🏼 I'm Hassan. I like to build cool stuff with JavaScript. I'm 
 
 </details>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HassanMasoud&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HassanMasoud&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
