@@ -11,11 +11,4 @@ Hey there! 👋🏼 I'm Hassan. I like to build cool stuff with JavaScript. I'm 
   I want to learn how to make cross platform mobile apps and build full stack serverless web apps.
 </details>
 
-<details>
-  <summary><b>😎: Github Stats</b></summary>
-
-  <img align="left" alt="Hassan Masoud's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HassanMasoud&show_icons=true&hide_border=true" />
-
-</details>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HassanMasoud&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
