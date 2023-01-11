@@ -3,13 +3,7 @@ Hey there! 👋🏼 I'm Hassan. I like to build cool stuff with JavaScript. I'm 
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about anything
+- 💬 Ask me about NodeJS
 - ⚡ Fun fact: I like to DJ in my free time
-
-<details>
-  <summary><b>🥅: 2022 goals</b></summary>
-  I want to learn how to make cross platform mobile apps and build full stack serverless web apps.
-</details>
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HassanMasoud&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
